@@ -2,9 +2,9 @@
   "name": "rango-sdk",
   "version": "0.1.76",
   "description": "Rango Exchange SDK for dApps",
-  "module": "lib/rango-sdk.esm.js",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rango-exchange/rango-sdk.git"
@@ -14,13 +14,10 @@
     "url": "https://github.com/rango-exchange/rango-sdk/issues"
   },
   "scripts": {
-    "clean": "rm -rf ./lib && rm -rf ./dist",
-    "build": "tsdx build --tsconfig ./tsconfig.json && yarn post:build",
-    "post:build": "yarn mv:file lib",
-    "watch": "tsdx watch",
+    "clean": "rm -rf ./dist",
+    "build": "rangutopia library build",
     "lint": "eslint src -c ../../.eslintrc.json --fix --ignore-path ../../.prettierignore",
-    "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}' --config ../../.prettierrc.json --ignore-path ../../.prettierignore",
-    "mv:file": "sh ../../scripts/post-build.sh"
+    "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}' --config ../../.prettierrc.json --ignore-path ../../.prettierignore"
   },
   "keywords": [
     "Rango Exchange",
@@ -36,7 +33,7 @@
     "Aggregator"
   ],
   "files": [
-    "lib/**/*",
+    "dist/**/*",
     "src"
   ],
   "author": "rango.exchange",

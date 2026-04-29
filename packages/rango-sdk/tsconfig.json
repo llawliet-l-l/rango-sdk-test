@@ -4,7 +4,8 @@
     "composite": true,
     "declaration": true,
     "noEmit": false,
-    "outDir": "lib",
+    "outDir": "dist",
+    "tsBuildInfoFile": "dist/.tsbuildinfo",
     "rootDir": "./src"
   },
   "include": ["src"],
