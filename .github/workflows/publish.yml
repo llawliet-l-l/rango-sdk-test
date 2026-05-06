@@ -5,6 +5,10 @@ on:
     branches:
       - master
 
+permissions:
+  contents: write
+
+
 jobs:
   publish-packages:
     if: |
@@ -19,7 +23,7 @@ jobs:
         with:
           fetch-depth: 0
           ref: master
-          token: ${{ secrets.PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup NodeJS
         uses: actions/setup-node@v3
@@ -64,14 +68,15 @@ jobs:
       - name: Commit and push changes
         run: |
           git stash -- yarn.lock
-          git commit -am "ci(release): bump package versions"
-          git push origin master
+          git add .
+          git commit -m "ci(release): bump package versions" -m "[skip ci]"
+          
 
       - name: Publish packages
         run: |
-          cd packages/ssfdfsgdfsgfdgfsdgdsgfdfgs-types 
+          cd packages/rango-types
           npm publish --access public
-          cd ../ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk
+          cd ../rango-sdk
           npm publish --access public
-          cd ../ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk-basic 
+          cd ../rango-sdk-basic 
           npm publish --access public
