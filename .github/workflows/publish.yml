@@ -69,6 +69,8 @@ jobs:
 
       - name: Publish packages
         run: |
+          cd ../rango-types 
+          npm publish --access public
           cd packages/rango-sdk
           npm publish --access public
           cd ../rango-sdk-basic 
