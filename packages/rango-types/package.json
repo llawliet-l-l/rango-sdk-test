@@ -1,5 +1,5 @@
 {
-  "name": "rango-types",
+  "name": "ssfdfsgdfsgfdgfsdgdsgfdfgs-types",
   "version": "0.1.98",
   "description": "Rango Exchange Types",
   "type": "module",
@@ -19,11 +19,6 @@
       "default": "./lib/api/basic/index.js"
     }
   },
-  "repository": "https://github.com/rango-exchange/rango-types",
-  "homepage": "https://github.com/rango-exchange/rango-types",
-  "bugs": {
-    "url": "https://github.com/rango-exchange/rango-types/issues"
-  },
   "scripts": {
     "clean": "rm -rf lib",
     "test": "jest --config jestconfig.json",
@@ -41,7 +36,6 @@
     "lib/**/*",
     "src"
   ],
-  "author": "rango.exchange",
   "license": "GPL-3.0",
   "publishConfig": {
     "access": "public",

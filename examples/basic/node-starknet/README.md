@@ -2,7 +2,7 @@
 
 ### Requirements:
 
-- rango-sdk-basic
+- ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk-basic
 - @rango-dev/signer-starknet
 - starknet
 - Node.js >= 20

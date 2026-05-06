@@ -1490,21 +1490,21 @@
   dependencies:
     "@solana/web3.js" "^1.91.4"
     promise-retry "^2.0.1"
-    rango-types "^0.1.69"
+    ssfdfsgdfsgfdgfsdgdsgfdfgs-types "^0.1.69"
 
 "@rango-dev/signer-starknet@^0.30.0":
   version "0.30.0"
   resolved "https://registry.yarnpkg.com/@rango-dev/signer-starknet/-/signer-starknet-0.30.0.tgz#44d8c28956fa9053a88823d87b1473ef9679680a"
   integrity sha512-wSzylDaUm82EbQgjwx6ou27CBvwVhpCPTfWzQecJcyG5HQP90REk6wXGZey0vMMmIIDmMl17OcODmj1M9eVo1w==
   dependencies:
-    rango-types "^0.1.69"
+    ssfdfsgdfsgfdgfsdgdsgfdfgs-types "^0.1.69"
 
 "@rango-dev/signer-tron@^0.29.0":
   version "0.29.0"
   resolved "https://registry.yarnpkg.com/@rango-dev/signer-tron/-/signer-tron-0.29.0.tgz#f65b3e2e8c72f726f62578763f44ff25cdfc0815"
   integrity sha512-os1Uf1oPClq6kWK/BCEOYGhXupYbV5HM1tk9Yp6JnsdRmmTh4XXKvPVlLreb2PN29Pm8gQLk4ryr9cbKPSkHKg==
   dependencies:
-    rango-types "^0.1.69"
+    ssfdfsgdfsgfdgfsdgdsgfdfgs-types "^0.1.69"
 
 "@rollup/plugin-babel@^5.1.0":
   version "5.3.1"
@@ -6560,14 +6560,14 @@ randombytes@^2.1.0:
   dependencies:
     safe-buffer "^5.1.0"
 
-rango-types@^0.1.69:
+ssfdfsgdfsgfdgfsdgdsgfdfgs-types@^0.1.69:
   version "0.1.88"
-  resolved "https://registry.yarnpkg.com/rango-types/-/rango-types-0.1.88.tgz#077d73f20206aff287d8b6e7f30fc3477038cd85"
+  resolved "https://registry.yarnpkg.com/ssfdfsgdfsgfdgfsdgdsgfdfgs-types/-/ssfdfsgdfsgfdgfsdgdsgfdfgs-types-0.1.88.tgz#077d73f20206aff287d8b6e7f30fc3477038cd85"
   integrity sha512-lumeWNFU/wxPvCkFayMDDsAXrL8foAlu4GXR/BfusZWOxbenIHFQVUtIpDFcs5nsZa3eO2WJML4zTRf//CbHsQ==
 
-rango-types@^0.1.98:
+ssfdfsgdfsgfdgfsdgdsgfdfgs-types@^0.1.98:
   version "0.1.98"
-  resolved "https://registry.yarnpkg.com/rango-types/-/rango-types-0.1.98.tgz#d8d6f2f552a933212d80f53b89b66ab0fd15fbd7"
+  resolved "https://registry.yarnpkg.com/ssfdfsgdfsgfdgfsdgdsgfdfgs-types/-/ssfdfsgdfsgfdgfsdgdsgfdfgs-types-0.1.98.tgz#d8d6f2f552a933212d80f53b89b66ab0fd15fbd7"
   integrity sha512-6oD3QOK9jeHYNRQ7LAPKYDKf4THZ4QtsrfqLcKPQUF82AwBmXFGtod0ff+4TtNR1H/ygzM24MbPLk4MYCkRwag==
 
 react-is@^16.12.0, react-is@^16.13.1:

@@ -1,1 +1,1 @@
-export * from 'rango-types/lib/api/main/txs/transfer'
+export * from 'ssfdfsgdfsgfdgfsdgdsgfdfgs-types/lib/api/main/txs/transfer'

@@ -156,7 +156,7 @@
   resolved "https://registry.yarnpkg.com/@rango-dev/signer-starknet/-/signer-starknet-0.30.0.tgz#44d8c28956fa9053a88823d87b1473ef9679680a"
   integrity sha512-wSzylDaUm82EbQgjwx6ou27CBvwVhpCPTfWzQecJcyG5HQP90REk6wXGZey0vMMmIIDmMl17OcODmj1M9eVo1w==
   dependencies:
-    rango-types "^0.1.69"
+    ssfdfsgdfsgfdgfsdgdsgfdfgs-types "^0.1.69"
 
 "@scure/base@~1.1.3":
   version "1.1.8"
@@ -434,18 +434,18 @@ querystringify@^2.1.1:
   resolved "https://registry.yarnpkg.com/querystringify/-/querystringify-2.2.0.tgz#3345941b4153cb9d082d8eee4cda2016a9aef7f6"
   integrity sha512-FIqgj2EUvTa7R50u0rGsyTftzjYmv/a3hO345bZNrqabNqjtgiDMgmo4mkUjd+nzU5oF3dClKqFIPUKybUyqoQ==
 
-rango-sdk@^0.1.56:
+ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk@^0.1.56:
   version "0.1.56"
-  resolved "https://registry.yarnpkg.com/rango-sdk/-/rango-sdk-0.1.56.tgz#02ff80ae45563b5f1fc577e8c03f1114dc4ae333"
+  resolved "https://registry.yarnpkg.com/ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk/-/ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk-0.1.56.tgz#02ff80ae45563b5f1fc577e8c03f1114dc4ae333"
   integrity sha512-EMQKqiKO5iKDTwPviFtreawKwN/l5NGJhzOwIlrnIIXrA1fH7qtsxO/ioZ0w1UPtrpx1dg7gwuonDntMrG4+DA==
   dependencies:
     axios "^1.7.4"
-    rango-types "^0.1.73"
+    ssfdfsgdfsgfdgfsdgdsgfdfgs-types "^0.1.73"
     uuid-random "^1.3.2"
 
-rango-types@^0.1.69, rango-types@^0.1.73:
+ssfdfsgdfsgfdgfsdgdsgfdfgs-types@^0.1.69, ssfdfsgdfsgfdgfsdgdsgfdfgs-types@^0.1.73:
   version "0.1.73"
-  resolved "https://registry.yarnpkg.com/rango-types/-/rango-types-0.1.73.tgz#2b0a96d64ae4caedd44771eb078f5b1bf03471cd"
+  resolved "https://registry.yarnpkg.com/ssfdfsgdfsgfdgfsdgdsgfdfgs-types/-/ssfdfsgdfsgfdgfsdgdsgfdfgs-types-0.1.73.tgz#2b0a96d64ae4caedd44771eb078f5b1bf03471cd"
   integrity sha512-h4Ent3q+3X8cuSrYjuhOtFi0xsh64JE6NYE/IpTlopOsHCwG7sxAPiG6jQ7BGUoprFLHYYjSDvQBDgwAgBlF5Q==
 
 redeyed@~2.1.0:

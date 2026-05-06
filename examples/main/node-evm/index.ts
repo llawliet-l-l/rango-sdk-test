@@ -1,6 +1,6 @@
 // run `node --import=tsx index.ts` in the terminal
 
-import { CreateTransactionRequest, MultiRouteRequest, RangoClient, TransactionStatus, TransactionType } from "rango-sdk";
+import { CreateTransactionRequest, MultiRouteRequest, RangoClient, TransactionStatus, TransactionType } from "ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk";
 import { findToken } from '../shared/utils/meta.js'
 import { logMeta, logSelectedTokens, logWallet, logTransactionHash, logApprovalResponse, logRoutes, logStepStatus, logConfirmedRoute, logRouteStep } from "../shared/utils/logger.js";
 import { TransactionRequest, ethers } from "ethers";

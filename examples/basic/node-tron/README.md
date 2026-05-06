@@ -2,7 +2,7 @@
 
 ### Requirements:
 
-- rango-sdk-basic
+- ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk-basic
 - @rango-dev/signer-tron
 - tronweb@beta
 - Node.js >= 20

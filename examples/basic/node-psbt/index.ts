@@ -1,6 +1,6 @@
 // run `node --import=tsx index.ts` in the terminal
 
-import { RangoClient, SwapRequest, TransactionStatus } from 'rango-sdk-basic'
+import { RangoClient, SwapRequest, TransactionStatus } from 'ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk-basic'
 import process from 'node:process'
 
 import {

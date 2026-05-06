@@ -1,4 +1,4 @@
-import { SwapResult, MetaResponse, MultiRouteResponse, Token, TransactionStatusResponse, ConfirmRouteResponse, TransactionStatus } from 'rango-sdk'
+import { SwapResult, MetaResponse, MultiRouteResponse, Token, TransactionStatusResponse, ConfirmRouteResponse, TransactionStatus } from 'ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk'
 
 
 export function logMeta(meta: MetaResponse) {

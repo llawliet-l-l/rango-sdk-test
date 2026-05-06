@@ -4,7 +4,7 @@ import {
   RangoClient,
   TransactionStatus,
   TransactionType,
-} from 'rango-sdk-basic'
+} from 'ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk-basic'
 import {
   logQuote,
   logWallet,
