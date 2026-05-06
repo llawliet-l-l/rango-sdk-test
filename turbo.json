@@ -14,7 +14,7 @@
     "lint": {
       "cache": false
     },
-    "dev": {
+    "watch": {
       "cache": false,
       "persistent": true
     }
