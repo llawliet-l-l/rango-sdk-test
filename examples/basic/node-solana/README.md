@@ -2,7 +2,7 @@
 
 ### Requirements:
 
-- rango-sdk-basic
+- ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk-basic
 - @rango-dev/signer-solana
 - solana/web3.js
 - bs58

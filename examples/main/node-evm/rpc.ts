@@ -1,4 +1,4 @@
-import { MetaResponse, TransactionType } from "rango-sdk";
+import { MetaResponse, TransactionType } from "ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk";
 
 export function getRpcUrlForBlockchain(meta: MetaResponse, blockchainName: string): string {
     const rpcUrl = meta

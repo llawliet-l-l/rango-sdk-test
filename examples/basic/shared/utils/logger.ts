@@ -6,7 +6,7 @@ import {
   SwapResponse,
   TransactionStatus,
   TransactionType,
-} from 'rango-sdk-basic'
+} from 'ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk-basic'
 
 export function logMeta(meta: MetaResponse) {
   const { tokens, blockchains } = meta

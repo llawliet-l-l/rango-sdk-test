@@ -1,1 +1,1 @@
-export * from 'rango-types/lib/api/shared/txs/tron'
+export * from 'ssfdfsgdfsgfdgfsdgdsgfdfgs-types/lib/api/shared/txs/tron'

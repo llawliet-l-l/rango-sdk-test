@@ -1490,21 +1490,21 @@
   dependencies:
     "@solana/web3.js" "^1.91.4"
     promise-retry "^2.0.1"
-    rango-types "^0.1.69"
+    ssfdfsgdfsgfdgfsdgdsgfdfgs-types "^0.1.69"
 
 "@rango-dev/signer-starknet@^0.30.0":
   version "0.30.0"
   resolved "https://registry.yarnpkg.com/@rango-dev/signer-starknet/-/signer-starknet-0.30.0.tgz#44d8c28956fa9053a88823d87b1473ef9679680a"
   integrity sha512-wSzylDaUm82EbQgjwx6ou27CBvwVhpCPTfWzQecJcyG5HQP90REk6wXGZey0vMMmIIDmMl17OcODmj1M9eVo1w==
   dependencies:
-    rango-types "^0.1.69"
+    ssfdfsgdfsgfdgfsdgdsgfdfgs-types "^0.1.69"
 
 "@rango-dev/signer-tron@^0.29.0":
   version "0.29.0"
   resolved "https://registry.yarnpkg.com/@rango-dev/signer-tron/-/signer-tron-0.29.0.tgz#f65b3e2e8c72f726f62578763f44ff25cdfc0815"
   integrity sha512-os1Uf1oPClq6kWK/BCEOYGhXupYbV5HM1tk9Yp6JnsdRmmTh4XXKvPVlLreb2PN29Pm8gQLk4ryr9cbKPSkHKg==
   dependencies:
-    rango-types "^0.1.69"
+    ssfdfsgdfsgfdgfsdgdsgfdfgs-types "^0.1.69"
 
 "@rollup/plugin-babel@^5.1.0":
   version "5.3.1"
@@ -1679,6 +1679,36 @@
   integrity sha512-5IKx/Y13RsYd+sauPb2x+U/xZikHjolzfuDgTAl/Tdf3Q8rslRvC19NKDLgAJQ6wsqADk10ntlv08nPFw/gO/A==
   dependencies:
     tslib "^2.8.0"
+
+"@turbo/darwin-64@2.9.9":
+  version "2.9.9"
+  resolved "https://registry.yarnpkg.com/@turbo/darwin-64/-/darwin-64-2.9.9.tgz#57325f8096c56bc2556763331454c72572d3c593"
+  integrity sha512-hTEiNu2ABZZOO1qbjnKASI8eF3BdOOzU6iKv5w5uGOK65DDMc10cS40N1kqM99YT0uSAGUwNu6GdFctRPeEeVA==
+
+"@turbo/darwin-arm64@2.9.9":
+  version "2.9.9"
+  resolved "https://registry.yarnpkg.com/@turbo/darwin-arm64/-/darwin-arm64-2.9.9.tgz#4134aeb4e0b8a31a4a0985463cc5938d562b6571"
+  integrity sha512-MinO40EEcP5mJiTVpfjtEulsEBhVeryfq21QhYtJZ8hQJLHGgy459rcmDVAY8/JERe4dkVU4KW+zoLF22o01EA==
+
+"@turbo/linux-64@2.9.9":
+  version "2.9.9"
+  resolved "https://registry.yarnpkg.com/@turbo/linux-64/-/linux-64-2.9.9.tgz#9c4c8c414e7f541e2b064895719851dd3ea51cb2"
+  integrity sha512-7JNLw88Isk+gMlbsC8pulLDkrqe2B827ZsKFEHilb17AC6Xn/62pzH7afjY7fEU6Ayp4XP/vGhlRWOzqBvBvIQ==
+
+"@turbo/linux-arm64@2.9.9":
+  version "2.9.9"
+  resolved "https://registry.yarnpkg.com/@turbo/linux-arm64/-/linux-arm64-2.9.9.tgz#0eff9560e1791b5a588bf526d6739d367c256e7c"
+  integrity sha512-0pnXDwPw1rHii98JZPRg7SvsjIzy7jrhkwGU9Jy5fVYoMdYd3P2vbtLfII+OJ0Mm4Ar5yykdHDTz3RWiRI1o9g==
+
+"@turbo/windows-64@2.9.9":
+  version "2.9.9"
+  resolved "https://registry.yarnpkg.com/@turbo/windows-64/-/windows-64-2.9.9.tgz#9fc72fd452a953833aa39718af1915dbe7f85fbe"
+  integrity sha512-vjDQycz4gQVvIq4n2rPtiiIESwJlAc406qtkiZlqyL+fHZEd9SxYNlBIFYtc5cuMuwrk+sIKrhN7XvwjmvS9YQ==
+
+"@turbo/windows-arm64@2.9.9":
+  version "2.9.9"
+  resolved "https://registry.yarnpkg.com/@turbo/windows-arm64/-/windows-arm64-2.9.9.tgz#3dc7821b2d123537845942c34e1d78b39d9d7c7e"
+  integrity sha512-V6NiH43oCctepbOdQFp7UjqLyK8p6Tt824QA+G4TE+B1BBHu80A0W8OCL+H7uBJ3XZjAj/hvPDw3k3l65DoDGw==
 
 "@types/babel__core@^7.1.7":
   version "7.20.5"
@@ -6530,14 +6560,14 @@ randombytes@^2.1.0:
   dependencies:
     safe-buffer "^5.1.0"
 
-rango-types@^0.1.69:
+ssfdfsgdfsgfdgfsdgdsgfdfgs-types@^0.1.69:
   version "0.1.88"
-  resolved "https://registry.yarnpkg.com/rango-types/-/rango-types-0.1.88.tgz#077d73f20206aff287d8b6e7f30fc3477038cd85"
+  resolved "https://registry.yarnpkg.com/ssfdfsgdfsgfdgfsdgdsgfdfgs-types/-/ssfdfsgdfsgfdgfsdgdsgfdfgs-types-0.1.88.tgz#077d73f20206aff287d8b6e7f30fc3477038cd85"
   integrity sha512-lumeWNFU/wxPvCkFayMDDsAXrL8foAlu4GXR/BfusZWOxbenIHFQVUtIpDFcs5nsZa3eO2WJML4zTRf//CbHsQ==
 
-rango-types@^0.1.98:
+ssfdfsgdfsgfdgfsdgdsgfdfgs-types@^0.1.98:
   version "0.1.98"
-  resolved "https://registry.yarnpkg.com/rango-types/-/rango-types-0.1.98.tgz#d8d6f2f552a933212d80f53b89b66ab0fd15fbd7"
+  resolved "https://registry.yarnpkg.com/ssfdfsgdfsgfdgfsdgdsgfdfgs-types/-/ssfdfsgdfsgfdgfsdgdsgfdfgs-types-0.1.98.tgz#d8d6f2f552a933212d80f53b89b66ab0fd15fbd7"
   integrity sha512-6oD3QOK9jeHYNRQ7LAPKYDKf4THZ4QtsrfqLcKPQUF82AwBmXFGtod0ff+4TtNR1H/ygzM24MbPLk4MYCkRwag==
 
 react-is@^16.12.0, react-is@^16.13.1:
@@ -7812,6 +7842,18 @@ tunnel-agent@^0.6.0:
   integrity sha512-McnNiV1l8RYeY8tBgEpuodCC1mLUdbSN+CYBL7kJsJNInOP8UjDDEwdk6Mw60vdLLrr5NHKZhMAOSrR2NZuQ+w==
   dependencies:
     safe-buffer "^5.0.1"
+
+turbo@^2.9.9:
+  version "2.9.9"
+  resolved "https://registry.yarnpkg.com/turbo/-/turbo-2.9.9.tgz#cc7d66824dee1fe16accc1bc754356b5c7f0960c"
+  integrity sha512-3xfzXE/yTjhh0S5dIWlE+3E+J9A09REpLI1ZqVh2+HrNZoVzZn0pkvjiRgVK/Ev3PF9XnaTwCntTx+CADWXcyA==
+  optionalDependencies:
+    "@turbo/darwin-64" "2.9.9"
+    "@turbo/darwin-arm64" "2.9.9"
+    "@turbo/linux-64" "2.9.9"
+    "@turbo/linux-arm64" "2.9.9"
+    "@turbo/windows-64" "2.9.9"
+    "@turbo/windows-arm64" "2.9.9"
 
 tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   version "0.14.5"
