@@ -1,6 +1,6 @@
 {
   "name": "ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk",
-  "version": "0.1.77",
+  "version": "0.1.78",
   "description": "Rango Exchange SDK for dApps",
   "module": "lib/ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk.esm.js",
   "main": "lib/index.js",
