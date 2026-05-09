@@ -1,6 +1,6 @@
 {
   "name": "ssfdfsgdfsgfdgfsdgdsgfdfgs-types",
-  "version": "0.1.100-next.1",
+  "version": "0.1.101-next.1",
   "description": "Rango Exchange Types",
   "type": "module",
   "main": "./lib/index.js",
