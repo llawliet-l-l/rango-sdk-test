@@ -32,4 +32,3 @@ jobs:
         env:
           PUBLISH_FLAG: ${{ steps.flag.outputs.flag }}
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-          GH_TOKEN: ${{ github.token }}
