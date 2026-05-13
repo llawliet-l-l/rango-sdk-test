@@ -1,3 +1,3 @@
-export * from 'rango-types/lib/api/main/meta'
-export * from 'rango-types/lib/api/shared/type-gaurds'
-export type { MetaRequest, SwapperMetaExtended } from 'rango-types/lib/api/shared/meta'
+export * from 'ssfdfsgdfsgfdgfsdgdsgfdfgs-types/lib/api/main/meta'
+export * from 'ssfdfsgdfsgfdgfsdgdsgfdfgs-types/lib/api/shared/type-gaurds'
+export type { MetaRequest, SwapperMetaExtended } from 'ssfdfsgdfsgfdgfsdgdsgfdfgs-types/lib/api/shared/meta'

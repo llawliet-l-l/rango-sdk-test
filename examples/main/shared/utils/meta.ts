@@ -1,4 +1,4 @@
-import { Token } from "rango-sdk"
+import { Token } from "ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk"
 
 export function findToken(tokens: Token[], blockchain: string, address: string | null): Token {
     const token = tokens.find(token =>

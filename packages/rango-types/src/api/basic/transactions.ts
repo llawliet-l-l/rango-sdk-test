@@ -168,7 +168,7 @@ export type StatusResponse = {
 
 /**
  * Response body of swap API
- * @see https://docs.rango.exchange/integration/rango-sdk/sample-transactions
+ * @see https://docs.rango.exchange/integration/ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk/sample-transactions
  *
  * @property {string} requestId - The unique requestId which is generated for this request by the server. It should be
  * passed down to all other endpoints if this swap continues on. e.g. d10657ce-b13a-405c-825b-b47f8a5016ad

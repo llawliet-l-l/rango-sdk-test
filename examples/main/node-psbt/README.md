@@ -2,7 +2,7 @@
 
 ### Requirements:
 
-- rango-sdk
+- ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk
 - bitcoinjs-lib
 - ecpair
 - tiny-secp256k1

@@ -4,22 +4,22 @@
 
 ## Main SDK (Multi Step Tx)
 
-[![npm version](https://badge.fury.io/js/rango-sdk.svg)](https://badge.fury.io/js/rango-sdk)
-[![license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/rango-exchange/rango-sdk/blob/master/LICENSE)
+[![npm version](https://badge.fury.io/js/ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk.svg)](https://badge.fury.io/js/ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk)
+[![license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/rango-exchange/ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk/blob/master/LICENSE)
 
 ### Installation
 
 ```shell
-  yarn add rango-sdk
+  yarn add ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk
   # or
-  npm install rango-sdk --save
+  npm install ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk --save
 ```
 
 ## Usage
 
 - [Main-SDK Reference](https://docs.rango.exchange/api-integration/main-api-multi-step/api-reference)
 - Examples
-  - [EVM Example](https://github.com/rango-exchange/rango-sdk/tree/master/examples/main/node-evm/)
-  - [Solana Example](https://github.com/rango-exchange/rango-sdk/tree/master/examples/main/node-solana/)
-  - [Tron Example](https://github.com/rango-exchange/rango-sdk/tree/master/examples/main/node-tron/)
-  - [Starknet Example](https://github.com/rango-exchange/rango-sdk/tree/master/examples/main/node-starknet/)
+  - [EVM Example](https://github.com/rango-exchange/ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk/tree/master/examples/main/node-evm/)
+  - [Solana Example](https://github.com/rango-exchange/ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk/tree/master/examples/main/node-solana/)
+  - [Tron Example](https://github.com/rango-exchange/ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk/tree/master/examples/main/node-tron/)
+  - [Starknet Example](https://github.com/rango-exchange/ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk/tree/master/examples/main/node-starknet/)

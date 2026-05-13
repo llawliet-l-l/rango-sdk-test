@@ -1,1 +1,1 @@
-export * from 'rango-types/lib/api/basic/txs/cosmos'
+export * from 'ssfdfsgdfsgfdgfsdgdsgfdfgs-types/lib/api/basic/txs/cosmos'

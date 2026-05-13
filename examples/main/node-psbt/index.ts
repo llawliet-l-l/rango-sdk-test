@@ -6,7 +6,7 @@ import {
   RangoClient,
   TransactionStatus,
   TransactionType,
-} from 'rango-sdk'
+} from 'ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk'
 import { findToken } from '../shared/utils/meta.js'
 import {
   logMeta,

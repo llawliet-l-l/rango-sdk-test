@@ -1,1 +1,1 @@
-export * from 'rango-types/lib/api/main/txs/solana'
+export * from 'ssfdfsgdfsgfdgfsdgdsgfdfgs-types/lib/api/main/txs/solana'

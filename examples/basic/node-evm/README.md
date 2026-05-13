@@ -2,7 +2,7 @@
 
 ### Requirements:
 
-- rango-sdk-basic
+- ssfdfsgdfsgfdgfsdgdsgfdfgs-sdk-basic
 - ethers
 - Node.js >= 20
 
